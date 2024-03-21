@@ -11,7 +11,7 @@
 
 - 📫Você me encontra no email **caiofmartines@hotmail.com**
 
-- 📄 Minha carreira [www.linkedin.com/in/caio-martins-ferreira](www.linkedin.com/in/caio-martins-ferreira)
+- 📄 Minha carreira [www.linkedin.com/in/caio-martins-ferreira](https://www.linkedin.com/in/caio-martins-ferreira/)
 
 - ⚡Curiosidades **Sou Evangélico, Adoro violão e skate**
 
