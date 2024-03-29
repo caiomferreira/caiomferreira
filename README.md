@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo **Economia, Investimentos e Python**
 
-- 🤝 Estou na jornada para analista **CEA e CNPI**
+- 🤝 Especialista de Investimento ANBIMA - **CEA** e estou na jornada para analista **CNPI**
 
 - 📝 Compartilho estudos no Twitter(X) [https://twitter.com/_caiomferreira](https://twitter.com/_caiomferreira)
 
