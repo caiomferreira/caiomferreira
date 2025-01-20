@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Caio Martins Ferreira</h1>
+<h2 align="center"> Aplico Tecnologia no mercado para soluções personalizadas! entre em Contato!
 <h3 align="center">Tenho interesse em Finanças Qauntitativas, Economia e Investimentos</h3>
 
-- 🌱 Estou aprendendo **Economia, Investimentos e Python**
+
+- 🌱 **Economia, Investimentos e Python**
 
 - 🤝 Especialista de Investimento ANBIMA - **CEA** e estou na jornada para analista **CNPI**
 
