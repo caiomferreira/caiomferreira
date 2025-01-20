@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Caio Martins Ferreira</h1>
-<h2 align="center"> Aplico Tecnologia no mercado para soluções personalizadas! entre em Contato!
+<h2 align="center"> Aplico Tecnologia no mercado para soluções personalizadas! Entre em Contato!
 <h3 align="center">Tenho interesse em Finanças Qauntitativas, Economia e Investimentos</h3>
 
 
