@@ -7,7 +7,7 @@
 
 - 🤝 Especialista de Investimento ANBIMA - **CEA** e estou na jornada para analista **CNPI**
 
-- 📝 Compartilho estudos no Twitter(X) [https://twitter.com/_caiomferreira](https://twitter.com/_caiomferreira)
+- 📝 Compartilho estudos no Twitter(X) [https://twitter.com/_caiomferreira](https://twitter.com/caio_mferreira)
 
 - 💬 Me pergunte sobre **Economia, Investimentos e Finanças Quantitativas**
 
